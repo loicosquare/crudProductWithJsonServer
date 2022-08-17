@@ -1,0 +1,41 @@
+{
+  "productsList": [
+    {
+      "productName": "Voiture",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 25000,
+      "comment": "Propre",
+      "date": "2022-08-24T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "dfg",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 546123,
+      "comment": "546123",
+      "date": "2022-08-18T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "vcbcvb",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 546132546,
+      "comment": "cvbcvb",
+      "date": "2022-08-18T23:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
